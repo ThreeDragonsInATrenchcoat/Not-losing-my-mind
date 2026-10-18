@@ -30,15 +30,16 @@ My repository for Numeric Ecology classes
 
 <p data-importer="text" align="left">Hello World!!</p>
 
-<h2>I'm still very new to coding</h2>
-<h2>I'm currently learning R and R studio, and trying my best to not freak out</h2>
+###
+
+I'm still very new to coding
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+I'm currently learning R and R studio, and trying my best to not freak out
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 
 ###
