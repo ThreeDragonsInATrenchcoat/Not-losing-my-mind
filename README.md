@@ -43,8 +43,14 @@ I'm currently learning R and R studio, and trying my best to not freak out
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThreeDragonsInATrenchcoat/ThreeDragonsInATrenchcoat/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/ThreeDragonsInATrenchcoat/ThreeDragonsInATrenchcoat/output/snake.svg" alt="Snake animation" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ThreeDragonsInATrenchcoat/Not-losing-my-mind/output/snake-dark.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/ThreeDragonsInATrenchcoat/Not-losing-my-mind/output/snake.svg"
+    alt="Snake animation"
+  />
 </picture>
 
 ###
