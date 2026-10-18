@@ -6,6 +6,8 @@ My repository for Numeric Ecology classes
 
 <img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVhYWUyMWhyNDFqc3p2MGJjMjgwZnBraDdweGF2YjJhNG01bTU5eiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/LPFNd1AJBoYcVUExmE/giphy.gif"  />
 
+<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 ###
 
 <div data-importer="techs" align="left">
@@ -25,5 +27,9 @@ My repository for Numeric Ecology classes
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+
+###
+
+<p data-importer="text" align="left">Hello World!!</p>
 
 ###
