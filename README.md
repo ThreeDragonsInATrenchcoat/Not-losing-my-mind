@@ -1,12 +1,10 @@
 # Not-losing-my-mind
 My repository for Numeric Ecology classes 
-<h2 data-importer="text" align="left">Hi 👋! My name is Beatriz Costa and I'm a student at FCUL and this is the repository i'll be using to upload my classes for studying purposes (at least for now).</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Beatriz Costa and I'm a student at FCUL </h2>
 
 ###
 
 <img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVhYWUyMWhyNDFqc3p2MGJjMjgwZnBraDdweGF2YjJhNG01bTU5eiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/LPFNd1AJBoYcVUExmE/giphy.gif"  />
-
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -31,5 +29,16 @@ My repository for Numeric Ecology classes
 ###
 
 <p data-importer="text" align="left">Hello World!!</p>
+
+I'm still very new to coding
+I'm currently learning R and R studio, and trying my best to not freak out
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###
