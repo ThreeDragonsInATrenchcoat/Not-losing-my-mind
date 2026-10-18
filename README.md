@@ -30,8 +30,8 @@ My repository for Numeric Ecology classes
 
 <p data-importer="text" align="left">Hello World!!</p>
 
-<h2 data-importer="text" align="left">I'm still very new to coding</h2>
-<h2 data-importer="text" align="left">I'm currently learning R and R studio, and trying my best to not freak out</h2>
+<h2>I'm still very new to coding</h2>
+<h2>I'm currently learning R and R studio, and trying my best to not freak out</h2>
 
 ###
 
