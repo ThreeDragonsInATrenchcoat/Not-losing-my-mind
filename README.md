@@ -13,8 +13,6 @@ My repository for Numeric Ecology classes
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
 </div>
 
@@ -41,5 +39,12 @@ I've worked on Matlab
 ###
 
 I'm currently learning R and R studio, and trying my best to not freak out
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThreeDragonsInATrenchcoat/ThreeDragonsInATrenchcoat/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ThreeDragonsInATrenchcoat/ThreeDragonsInATrenchcoat/output/snake.svg" alt="Snake animation" />
+</picture>
 
 ###
