@@ -1,6 +1,6 @@
 # Not-losing-my-mind
 My repository for Numeric Ecology classes 
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Beatriz Costa and I'm a student at FCUL and this is the repository i'll be using to upload my classes for studying purposes (at least for now).</h2>
 
 ###
 
