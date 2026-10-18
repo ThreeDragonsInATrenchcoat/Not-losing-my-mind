@@ -36,10 +36,10 @@ I'm still very new to coding
 
 ###
 
-I'm currently learning R and R studio, and trying my best to not freak out
+I've worked on Matlab
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+I'm currently learning R and R studio, and trying my best to not freak out
 
 ###
